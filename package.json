@@ -1,0 +1,19 @@
+{
+  "name": "appium_hello_world",
+  "version": "1.0.0",
+  "description": "Simple appium test in JS.",
+  "main": "test.js",
+  "dependencies": {
+    "webdriverio": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
+   "contributors": [],
+  "bugs": {
+    "url": "https://github.com/jayzamazing/restaurant-pos-front-end/issues"
+  },
+  "license": "MIT"
+}
