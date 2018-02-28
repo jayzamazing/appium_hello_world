@@ -1,6 +1,8 @@
 {
   "name": "appium_hello_world",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/jayzamazing/appium_hello_world#readme",
   "description": "Simple appium test in JS.",
   "main": "test.js",
   "dependencies": {
@@ -13,7 +15,7 @@
   "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
    "contributors": [],
   "bugs": {
-    "url": "https://github.com/jayzamazing/restaurant-pos-front-end/issues"
+    "url": "https://github.com/jayzamazing/appium_hello_world/issues"
   },
   "license": "MIT"
 }
